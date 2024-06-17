@@ -1,0 +1,2 @@
+# Task Mnanager
+This application by Hillary enables users to create, list, and delete their tasks. It employs a SQLite database for data storage and follows an object-oriented design using classes for users and tasks.
